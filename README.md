@@ -25,7 +25,8 @@
 Thanks for stopping by! 😊 Feel free to explore my repos, open issues, or reach out if you'd like to collaborate. Let's make something amazing together!
 
 ---
-![Nirbhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Nirbhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirbhayyyy18&show_icons=true&theme=radical)
+
 
 
 
