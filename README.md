@@ -1,7 +1,7 @@
 Hi there, I'm Nirbhay
 
 
-
+[![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/nirbhayyyy18?year=2024Extd)](https://gssoc.girlscript.tech)
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
