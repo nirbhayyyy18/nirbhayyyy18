@@ -14,6 +14,7 @@
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend:** Node.js, Express, REST APIs
 - **Machine Learning:** TensorFlow, Scikit-Learn
+- **Databases:** Mongodb, MySQL
 - **Tools:** Git, GitHub, VS Code, Postman, Docker
 
 ### 🔗 Projects & Work
