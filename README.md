@@ -18,7 +18,8 @@
 - **Tools:** Git, GitHub, VS Code, Postman, Docker
 
 ### 🔗 Projects & Work
-- **Trend Pulse:** A dynamic platform to analyze and predict the price of any stock by the past records of the stock 
+- **Trend Pulse:** A dynamic platform to analyze and predict the price of any stock by the past records of the closing price of the stock !
+- **BASIC CRUD WEBAPP:** A secure and dynamic CRUD web application with role-based access, where users can create, search, and manage posts seamlessly. Packed with advanced security features like PDO, form validation, and password hashing! 🚀
 
 ### 🌍 Let’s Connect!
 - **LinkedIn:** : (https://www.linkedin.com/in/nirbhayyyy18/)
