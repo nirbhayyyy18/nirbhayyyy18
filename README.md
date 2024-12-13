@@ -17,7 +17,7 @@
 - **Tools:** Git, GitHub, VS Code, Postman, Docker
 
 ### 🔗 Projects & Work
-- **Trend Pulse:** A dynamic platform to analyze and visualize trending topics and pattern
+- **Trend Pulse:** A dynamic platform to analyze and predict the price of any stock by the past records of the stock 
 
 ### 🌍 Let’s Connect!
 - **LinkedIn:** : (https://www.linkedin.com/in/nirbhayyyy18/)
