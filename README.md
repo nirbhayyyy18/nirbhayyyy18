@@ -13,6 +13,7 @@
 ### 🌐 Technologies & Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend:** Node.js, Express, REST APIs
+- **Languages:** Python, C, C++
 - **Machine Learning:** TensorFlow, Scikit-Learn
 - **Databases:** Mongodb, MySQL
 - **Tools:** Git, GitHub, VS Code, Postman, Docker
