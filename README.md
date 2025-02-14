@@ -21,7 +21,7 @@
 ### 🔗 Projects & Work
 - **Trend Pulse:** A dynamic platform to analyze and predict the price of any stock by the past records of the closing price of the stock !
 - **PostEdge:** A secure Post creating web application with role-based access control, allowing users to perform operations like creating, reading, updating, and deleting posts. It features a user-friendly dashboard, robust security measures such as password hashing with bcrypt and PDO for SQL injection prevention.
-- 
+
 ### 🌍 Let’s Connect!
 - **LinkedIn:** : (https://www.linkedin.com/in/nirbhayyyy18/)
 
