@@ -1,63 +1,146 @@
 # 👋 Hello, Nirbhay here!
 
-**Welcome to my GitHub profile!** I'm a passionate tech enthusiast and developer, actively exploring and contributing to various projects in **web development**, **machine learning**, and **open-source communities**. Here’s a bit about me and my work!
+**Software Developer | Full Stack Development | Data & AI**
+
+B.E. Electronics & Computer Science Engineering graduate from Thakur College of Engineering & Technology (TCET), with an interest in building web applications, backend systems, and data-driven solutions.
+
+I work primarily with JavaScript/TypeScript, React, Next.js, Node.js, Express, SQL and modern backend services. I also have an interest in data analytics and AI/ML, and enjoy working on projects that involve APIs, databases, authentication, and real-world application workflows.
+
+I have also contributed to open-source development through **GirlScript Summer of Code (GSSOC 2024)**.
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Currently pursuing B.E. in Electronics & Computer Science Engineering at TCET .
-- 🚀 Contributor at **GSSOC 2024** 🌟 and exploring open-source communities.
-- 🌱 Constantly learning about **Full Stack Development, AI/ML**, and **API integration**.
-- 📚 Enthusiastic about lifelong learning and always striving to stay updated with the latest in tech.
+## Technical Skills
 
-### 🌐 Technologies & Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend:** Node.js, Express, REST APIs
-- **Languages:** Python, C, C++
-- **Machine Learning:** TensorFlow, Scikit-Learn
-- **Databases:** Mongodb, MySQL
-- **Tools:** Git, GitHub, VS Code, Postman, Docker
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- C
+- C++
 
-### 🔗 Projects & Work
-- **Trend Pulse:** A dynamic platform to analyze and predict the price of any stock by the past records of the closing price of the stock !
-- **PostEdge:** A secure Post creating web application with role-based access control, allowing users to perform operations like creating, reading, updating, and deleting posts. It features a user-friendly dashboard, robust security measures such as password hashing with bcrypt and PDO for SQL injection prevention.
+### Frontend
+- HTML
+- CSS
+- React.js
+- Next.js
+- Tailwind CSS
 
-### 🌍 Let’s Connect!
-- **LinkedIn:** : (https://www.linkedin.com/in/nirbhayyyy18/)
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
 
-Thanks for stopping by! 😊 Feel free to explore my repos, open issues, or reach out if you'd like to collaborate. Let's make something amazing together!
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Supabase
+
+### Data & AI/ML
+- Python
+- Pandas
+- Scikit-learn
+- TensorFlow
+
+### Tools & Platforms
+- Git
+- GitHub
+- Postman
+- VS Code
+- Docker
+- Vercel
 
 ---
-![Nirbhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirbhayyyy18&show_icons=true&theme=radical)
 
+## Featured Projects
 
+### Digital Heroes — Assignment Project
 
+Full-stack web application developed as part of an assignment provided by **Digital Heroes**.
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+The application includes user authentication, subscription management, golf score tracking, charity contributions, monthly draws, prize calculation, winner verification, and an administrative management panel.
 
-<div style='display:flex; align-items:center; gap: 20px;' align='center'>
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
-   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  </a>
-</div>
+**Tech Stack:** Next.js, React, TypeScript, Supabase, Stripe, Resend, Vercel
 
-</details>
+- [Live Application](https://digital-heroes-project-muv.vercel.app/)
+- [Repository](https://github.com/nirbhayyyy18/digital-heroes-project)
 
+---
 
+### Trend Pulse
 
-<!---
-nirbhayyyy18/nirbhayyyy18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A stock analysis project focused on working with historical market data and analysing closing-price trends.
+
+The project explores data processing and analysis around historical stock performance.
+
+**Tech Stack:** Python, Data Analysis, Machine Learning
+
+- [Repository](https://github.com/nirbhayyyy18/Trend-Pulse)
+
+---
+
+### PostEdge
+
+A web application for creating and managing posts with authentication and role-based access control.
+
+The application supports CRUD operations and includes security-focused backend implementation such as password hashing and protected database operations.
+
+**Focus:** Authentication, Authorization, CRUD, Backend Development
+
+---
+
+## Open Source & Technical Activities
+
+### GirlScript Summer of Code — 2024
+
+Contributed to open-source projects as part of **GSSOC 2024**, gaining experience working with collaborative development workflows and GitHub-based contributions.
+
+### IETE-TCET
+
+Contributed to technical activities and events through **IETE-TCET**, including seminars, competitions, workshops and student-focused technical initiatives.
+
+---
+
+## Areas of Interest
+
+- Full Stack Development
+- Backend Development
+- REST API Development
+- Database Design
+- Data Analytics
+- Artificial Intelligence & Machine Learning
+- Software Engineering
+- System Design Fundamentals
+
+---
+
+## Currently Working On
+
+- Strengthening Data Structures & Algorithms
+- Building production-oriented full-stack applications
+- Improving backend and database design
+- Exploring data analytics and AI/ML
+- Learning software architecture and system design
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirbhayyyy18&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayyyy18&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/nirbhayyyy18](https://www.linkedin.com/in/nirbhayyyy18)
+- **GitHub:** [github.com/nirbhayyyy18](https://github.com/nirbhayyyy18)
+
+---
+
+### Thanks for visiting my profile.
+
