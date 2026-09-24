@@ -97,57 +97,57 @@ A data-focused project for analysing historical stock market data and identifyin
 
 ---
 
-### PostEdge
-
-A web application focused on **post management, authentication, authorization, and secure backend operations**.
-
-**Focus:** CRUD · Authentication · Authorization · Backend Development · Database Operations
-
----
-
-## Open Source & Technical Experience
-
-**GirlScript Summer of Code — 2024**
-
-Contributed to open-source projects and worked with GitHub-based collaborative development workflows.
-
-**IETE-TCET**
-
-Participated in technical activities, seminars, competitions, workshops, and student-focused technology initiatives.
-
 ---
 
 ## What I'm Currently Focusing On
 
-```text
-Full Stack Development  ████████████████████
-Backend Development      ██████████████████
-Data & Analytics         ███████████████
-DSA & Problem Solving    ███████████████
-System Design            ███████████
-AI / ML                  ███████████
+I'm currently focused on building stronger foundations in software development and improving my ability to design and build complete applications.
 
-Currently working on:
+| Area | Focus |
+|---|---|
+| Full Stack Development | Building production-oriented web applications |
+| Backend Development | APIs, authentication, business logic & architecture |
+| Databases | SQL, database design & optimization |
+| DSA | Problem solving and placement preparation |
+| Data & Analytics | Python, data processing and analysis |
+| AI / ML | Exploring practical applications of machine learning |
+| System Design | Understanding scalable application architecture |
 
-Building production-oriented full-stack applications
-Strengthening Data Structures & Algorithms
-Improving backend architecture and database design
-Working with APIs, authentication and payment systems
-Exploring Data Analytics and AI/ML
-Learning system design and scalable application architecture
-GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nirbhayyyy18&show_icons=true&hide_border=true&theme=transparent" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayyyy18&layout=compact&hide_border=true&theme=transparent" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nirbhayyyy18&hide_border=true&theme=transparent" height="165" /> </p>
-Let's Connect
+---
 
-I'm interested in opportunities involving software development, full-stack engineering, backend development, data analytics, and AI/ML.
+## GitHub Activity
 
-LinkedIn:
-https://www.linkedin.com/in/nirbhayyyy18
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirbhayyyy18&show_icons=true&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayyyy18&layout=compact&hide_border=true&theme=transparent" height="160" />
+</p>
 
-GitHub:
-https://github.com/nirbhayyyy18
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nirbhayyyy18&hide_border=true&theme=transparent" height="160" />
+</p>
 
-Email:
-nirbhaytiwari363@gmail.com
+---
 
-<p align="center"> <sub>Building, learning, and improving — one project at a time.</sub> </p> ```
+## Connect
+
+I'm open to opportunities and collaborations in:
+
+**Software Development · Full Stack Engineering · Backend Development · Data Analytics · AI/ML**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nirbhayyyy18">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nirbhayyyy18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:nirbhaytiwari363@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Building software. Solving problems. Learning continuously.</sub>
+</p>
