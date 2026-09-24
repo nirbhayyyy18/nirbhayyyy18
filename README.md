@@ -1,146 +1,153 @@
 # 👋 Hello, Nirbhay here!
+### Software Developer | Full Stack Development | Data & AI
 
-**Software Developer | Full Stack Development | Data & AI**
+I build web applications, backend systems, and data-driven solutions with a focus on clean architecture, practical problem solving, and real-world workflows.
 
-B.E. Electronics & Computer Science Engineering graduate from Thakur College of Engineering & Technology (TCET), with an interest in building web applications, backend systems, and data-driven solutions.
+I work primarily with **JavaScript, TypeScript, React, Next.js, Node.js, Express, SQL, and modern backend services**. I'm also exploring **Data Analytics, AI/ML, system design, and scalable application development**.
 
-I work primarily with JavaScript/TypeScript, React, Next.js, Node.js, Express, SQL and modern backend services. I also have an interest in data analytics and AI/ML, and enjoy working on projects that involve APIs, databases, authentication, and real-world application workflows.
-
-I have also contributed to open-source development through **GirlScript Summer of Code (GSSOC 2024)**.
+🎓 B.E. Electronics & Computer Science Engineering — Thakur College of Engineering & Technology  
+🌐 Open Source Contributor — GSSOC 2024  
+📍 Mumbai, India
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- TypeScript
-- C
-- C++
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Frontend
-- HTML
-- CSS
-- React.js
-- Next.js
-- Tailwind CSS
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Supabase
 
-### Data & AI/ML
-- Python
-- Pandas
-- Scikit-learn
-- TensorFlow
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
-### Tools & Platforms
-- Git
-- GitHub
-- Postman
-- VS Code
-- Docker
-- Vercel
+### Data & AI
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Digital Heroes — Assignment Project
+### Digital Heroes — Full Stack Application
 
-Full-stack web application developed as part of an assignment provided by **Digital Heroes**.
+A subscription-driven platform combining **golf performance tracking, charity contributions, and monthly prize draws**.
 
-The application includes user authentication, subscription management, golf score tracking, charity contributions, monthly draws, prize calculation, winner verification, and an administrative management panel.
+Built as part of an assignment provided by **Digital Heroes**.
 
-**Tech Stack:** Next.js, React, TypeScript, Supabase, Stripe, Resend, Vercel
+**Highlights**
 
-- [Live Application](https://digital-heroes-project-muv.vercel.app/)
-- [Repository](https://github.com/nirbhayyyy18/digital-heroes-project)
+- Authentication & protected routes
+- Monthly / yearly subscription management
+- Stripe payment integration
+- Golf score tracking
+- Charity directory & contributions
+- Monthly draw engine
+- Prize calculation & rollover
+- Winner verification workflow
+- Admin dashboard
+- Email notifications
+- Supabase realtime updates
+
+**Stack:** Next.js · React · TypeScript · Supabase · Stripe · Resend · Vercel
+
+[Live Application](https://digital-heroes-project-muv.vercel.app/) · [Source Code](https://github.com/nirbhayyyy18/digital-heroes-project)
 
 ---
 
 ### Trend Pulse
 
-A stock analysis project focused on working with historical market data and analysing closing-price trends.
+A data-focused project for analysing historical stock market data and identifying trends from closing-price movements.
 
-The project explores data processing and analysis around historical stock performance.
+**Focus:** Data Analysis · Python · Market Data · Machine Learning
 
-**Tech Stack:** Python, Data Analysis, Machine Learning
-
-- [Repository](https://github.com/nirbhayyyy18/Trend-Pulse)
+[View Repository](https://github.com/nirbhayyyy18/Trend-Pulse)
 
 ---
 
 ### PostEdge
 
-A web application for creating and managing posts with authentication and role-based access control.
+A web application focused on **post management, authentication, authorization, and secure backend operations**.
 
-The application supports CRUD operations and includes security-focused backend implementation such as password hashing and protected database operations.
-
-**Focus:** Authentication, Authorization, CRUD, Backend Development
+**Focus:** CRUD · Authentication · Authorization · Backend Development · Database Operations
 
 ---
 
-## Open Source & Technical Activities
+## Open Source & Technical Experience
 
-### GirlScript Summer of Code — 2024
+**GirlScript Summer of Code — 2024**
 
-Contributed to open-source projects as part of **GSSOC 2024**, gaining experience working with collaborative development workflows and GitHub-based contributions.
+Contributed to open-source projects and worked with GitHub-based collaborative development workflows.
 
-### IETE-TCET
+**IETE-TCET**
 
-Contributed to technical activities and events through **IETE-TCET**, including seminars, competitions, workshops and student-focused technical initiatives.
-
----
-
-## Areas of Interest
-
-- Full Stack Development
-- Backend Development
-- REST API Development
-- Database Design
-- Data Analytics
-- Artificial Intelligence & Machine Learning
-- Software Engineering
-- System Design Fundamentals
+Participated in technical activities, seminars, competitions, workshops, and student-focused technology initiatives.
 
 ---
 
-## Currently Working On
+## What I'm Currently Focusing On
 
-- Strengthening Data Structures & Algorithms
-- Building production-oriented full-stack applications
-- Improving backend and database design
-- Exploring data analytics and AI/ML
-- Learning software architecture and system design
+```text
+Full Stack Development  ████████████████████
+Backend Development      ██████████████████
+Data & Analytics         ███████████████
+DSA & Problem Solving    ███████████████
+System Design            ███████████
+AI / ML                  ███████████
 
----
+Currently working on:
 
-## GitHub Stats
+Building production-oriented full-stack applications
+Strengthening Data Structures & Algorithms
+Improving backend architecture and database design
+Working with APIs, authentication and payment systems
+Exploring Data Analytics and AI/ML
+Learning system design and scalable application architecture
+GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nirbhayyyy18&show_icons=true&hide_border=true&theme=transparent" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayyyy18&layout=compact&hide_border=true&theme=transparent" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nirbhayyyy18&hide_border=true&theme=transparent" height="165" /> </p>
+Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirbhayyyy18&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayyyy18&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+I'm interested in opportunities involving software development, full-stack engineering, backend development, data analytics, and AI/ML.
 
----
+LinkedIn:
+https://www.linkedin.com/in/nirbhayyyy18
 
-## Connect
+GitHub:
+https://github.com/nirbhayyyy18
 
-- **LinkedIn:** [linkedin.com/in/nirbhayyyy18](https://www.linkedin.com/in/nirbhayyyy18)
-- **GitHub:** [github.com/nirbhayyyy18](https://github.com/nirbhayyyy18)
+Email:
+nirbhaytiwari363@gmail.com
 
----
-
-### Thanks for visiting my profile.
-
+<p align="center"> <sub>Building, learning, and improving — one project at a time.</sub> </p> ```
