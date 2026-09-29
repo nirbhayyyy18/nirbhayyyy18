@@ -97,33 +97,18 @@ A data-focused project for analysing historical stock market data and identifyin
 
 ---
 
----
-
-## What I'm Currently Focusing On
-
-I'm currently focused on building stronger foundations in software development and improving my ability to design and build complete applications.
-
-| Area | Focus |
-|---|---|
-| Full Stack Development | Building production-oriented web applications |
-| Backend Development | APIs, authentication, business logic & architecture |
-| Databases | SQL, database design & optimization |
-| DSA | Problem solving and placement preparation |
-| Data & Analytics | Python, data processing and analysis |
-| AI / ML | Exploring practical applications of machine learning |
-| System Design | Understanding scalable application architecture |
-
----
-
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirbhayyyy18&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayyyy18&layout=compact&hide_border=true&theme=transparent" height="160" />
+  <a href="https://github.com/nirbhayyyy18">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=nirbhayyyy18&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nirbhayyyy18&hide_border=true&theme=transparent" height="160" />
+  <a href="https://github.com/nirbhayyyy18?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
