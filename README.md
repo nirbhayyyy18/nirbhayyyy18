@@ -95,6 +95,8 @@ A data-focused project for analysing historical stock market data and identifyin
 
 [View Repository](https://github.com/nirbhayyyy18/Trend-Pulse)
 
+---
+
 ## Connect
 
 I'm open to opportunities and collaborations in:
