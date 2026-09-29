@@ -95,24 +95,6 @@ A data-focused project for analysing historical stock market data and identifyin
 
 [View Repository](https://github.com/nirbhayyyy18/Trend-Pulse)
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/nirbhayyyy18">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=nirbhayyyy18&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nirbhayyyy18?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## Connect
 
 I'm open to opportunities and collaborations in:
